@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat';
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: maroon;
+}
+body{
+	background-color: maroon;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:maroon; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+p{
+	text-align: justify;
+}
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: maroon;
+}
+.navbar-brand{
+font-size: 30px;	
+}
